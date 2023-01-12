@@ -1,0 +1,13 @@
+{
+    "^GSPC": {
+        "name": "SPX/W", 
+        "fname":"spx_quotedata.csv",
+        "yaxis_dtick":10,
+        "width":3
+    },
+    "SPY": {
+        "fname":"spy_quotedata.csv",
+        "yaxis_dtick":1,
+        "width":0.5
+    }
+}
